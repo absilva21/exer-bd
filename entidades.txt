@@ -1,0 +1,16 @@
+universidade
+universidade_id PK int 20 
+universidade_nome String 127
+
+campus
+campus_id integer PK
+campus_nome string 319
+
+curso
+curso_id string 15
+curso_nome string 127
+
+bolsa
+
+
+
